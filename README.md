@@ -15,3 +15,10 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+
+Run the API:
+
+```bash
+python sentiment_api.py
+
+Then open your browser at: http://127.0.0.1:8000/docs to interact with the API using Swagger UI.
